@@ -6,16 +6,16 @@ This project demonstrates how Large Language Models (LLMs) can be used to conver
 
 ---
 
-## 📌 Features
+##  Features
 
-- 🔹 Convert plain English questions into SQL queries
-- 🔹 Real-time query execution on PostgreSQL/MySQL
-- 🔹 Simple and interactive UI using Streamlit
-- 🔹 Displays results in tabular format
+-  Convert plain English questions into SQL queries
+-  Real-time query execution on PostgreSQL/MySQL
+-  Simple and interactive UI using Streamlit
+-  Displays results in tabular format
 
 ---
 
-## 🧠 Example Queries
+##  Example Queries
 
 - How many companies offered more than 20 LPA?
 - Which companies hired CSE students?
@@ -23,7 +23,7 @@ This project demonstrates how Large Language Models (LLMs) can be used to conver
 
 ---
 
-## ⚙️ Tech Stack
+##  Tech Stack
 
 - **Backend:** Python
 - **Frontend:** Streamlit
@@ -33,7 +33,7 @@ This project demonstrates how Large Language Models (LLMs) can be used to conver
 
 ---
 
-## 🗄️ Database Schema
+##  Database Schema
 
 ### Students Table
 - student_id
@@ -56,13 +56,13 @@ This project demonstrates how Large Language Models (LLMs) can be used to conver
 
 ---
 
-## 🔄 System Architecture
+##  System Architecture
 
 User Input → LLM → SQL Query → Database → Output
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 # 1. Create virtual environment
